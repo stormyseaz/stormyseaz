@@ -11,4 +11,3 @@ I'm Hope from South Africa, I an aspiring Software Engineer, a Language enthusia
 
 ## Examples of Work
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stormyseaz)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,6 +1,5 @@
-### Hi there 👋
 
-#Hope
+# Hope
 I'm Hope from South Africa, I an aspiring Software Engineer, a Language enthusiast, a Photographer & all round Adventure Seeker. I enjoy learning languages and am always ready to tacle a complicated project.
 
 ## Skills 
